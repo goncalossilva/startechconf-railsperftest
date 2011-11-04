@@ -1,6 +1,6 @@
 !SLIDE
 
-# We makes mistakes
+# We make mistakes
 
 !SLIDE
 

@@ -8,22 +8,6 @@
 
 !SLIDE
 
-## Performance testing!
-
-    @@@ ruby
-    rake test:benchmark
-<br/>
-    @@@ ruby
-    rake test:profile
-<br/>
-    @@@ ruby
-    rails benchmarker "Ruby.code()"
-<br/>
-    @@@ ruby
-    rails profiler "Ruby.expensive_method(); Ruby.and_another()"
-
-!SLIDE
-
 <video width="936" height="585" preload="auto">
   <source src="file/videos/9_test_profile.ogg" type="video/ogg">
   <source src="file/videos/9_test_profile.mp4" type="video/mp4">

@@ -3,6 +3,7 @@ $(document).ready(function() {
     $("h1").closest(".slide").addClass("main");
   });
 
+  $("#preso").bind("showoff:show", playVideosWithDelay);
   $("#preso").bind("showoff:next", playVideosWithDelay);
   $("#preso").bind("showoff:prev", playVideosWithDelay);
 

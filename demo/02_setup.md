@@ -1,14 +1,6 @@
 !SLIDE
 
-# How it works
-
-!SLIDE
-
-## railscasts.org
-
-!SLIDE
-
-## Setup
+## Setup interpreter
 
 !SLIDE
 
@@ -98,6 +90,10 @@ MRI
   <source src="file/videos/7_move_fixtures.ogg" type="video/ogg">
   <source src="file/videos/7_move_fixtures.mp4" type="video/mp4">
 </video>
+
+!SLIDE
+
+## Setup profiler
 
 !SLIDE
 
