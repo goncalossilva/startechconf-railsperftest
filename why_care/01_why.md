@@ -1,14 +1,18 @@
 !SLIDE
 
-# Why you should care
+# Why care
 
 !SLIDE
 
-## Spend less on servers
+## Less resources
 
 !SLIDE
 
-## Make users happier
+## Happier users
+
+!SLIDE
+
+## Better SE rank
 
 !SLIDE
 
