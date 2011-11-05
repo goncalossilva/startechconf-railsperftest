@@ -1,14 +1,18 @@
 !SLIDE
 
-# Read documentation
-
-!SLIDE
-
-# Profile your projects
+# Summing up
 
 !SLIDE
 
 # Compare interpreters
+
+!SLIDE
+
+# Read the guides
+
+!SLIDE
+
+# Profile your projects
 
 !SLIDE
 
@@ -17,6 +21,3 @@
 !SLIDE
 
 # Thank you
-
-#### @goncalossilva
-#### StarTechConf 2011
